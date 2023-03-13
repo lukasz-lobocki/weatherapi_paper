@@ -1,0 +1,653 @@
+{
+  "&#xf000": {
+    "Resource": "wi-day-cloudy-gusts.svg"
+  },
+  "&#xf001": {
+    "Resource": "wi-day-cloudy-windy.svg"
+  },
+  "&#xf002": {
+    "Resource": "wi-day-cloudy.svg"
+  },
+  "&#xf003": {
+    "Resource": "wi-day-fog.svg"
+  },
+  "&#xf004": {
+    "Resource": "wi-day-hail.svg"
+  },
+  "&#xf005": {
+    "Resource": "wi-day-lightning.svg"
+  },
+  "&#xf006": {
+    "Resource": "wi-day-rain-mix.svg"
+  },
+  "&#xf007": {
+    "Resource": "wi-day-rain-wind.svg"
+  },
+  "&#xf008": {
+    "Resource": "wi-day-rain.svg"
+  },
+  "&#xf009": {
+    "Resource": "wi-day-showers.svg"
+  },
+  "&#xf00a": {
+    "Resource": "wi-day-snow.svg"
+  },
+  "&#xf00b": {
+    "Resource": "wi-day-sprinkle.svg"
+  },
+  "&#xf00c": {
+    "Resource": "wi-day-sunny-overcast.svg"
+  },
+  "&#xf00d": {
+    "Resource": "wi-day-sunny.svg"
+  },
+  "&#xf00e": {
+    "Resource": "wi-day-storm-showers.svg"
+  },
+  "&#xf010": {
+    "Resource": "wi-day-thunderstorm.svg"
+  },
+  "&#xf011": {
+    "Resource": "wi-cloudy-gusts.svg"
+  },
+  "&#xf012": {
+    "Resource": "wi-cloudy-windy.svg"
+  },
+  "&#xf013": {
+    "Resource": "wi-cloudy.svg"
+  },
+  "&#xf014": {
+    "Resource": "wi-fog.svg"
+  },
+  "&#xf015": {
+    "Resource": "wi-hail.svg"
+  },
+  "&#xf016": {
+    "Resource": "wi-lightning.svg"
+  },
+  "&#xf017": {
+    "Resource": "wi-rain-mix.svg"
+  },
+  "&#xf018": {
+    "Resource": "wi-rain-wind.svg"
+  },
+  "&#xf019": {
+    "Resource": "wi-rain.svg"
+  },
+  "&#xf01a": {
+    "Resource": "wi-showers.svg"
+  },
+  "&#xf01b": {
+    "Resource": "wi-snow.svg"
+  },
+  "&#xf01c": {
+    "Resource": "wi-sprinkle.svg"
+  },
+  "&#xf01d": {
+    "Resource": "wi-storm-showers.svg"
+  },
+  "&#xf01e": {
+    "Resource": "wi-thunderstorm.svg"
+  },
+  "&#xf021": {
+    "Resource": "wi-windy.svg"
+  },
+  "&#xf022": {
+    "Resource": "wi-night-alt-cloudy-gusts.svg"
+  },
+  "&#xf023": {
+    "Resource": "wi-night-alt-cloudy-windy.svg"
+  },
+  "&#xf024": {
+    "Resource": "wi-night-alt-hail.svg"
+  },
+  "&#xf025": {
+    "Resource": "wi-night-alt-lightning.svg"
+  },
+  "&#xf026": {
+    "Resource": "wi-night-alt-rain-mix.svg"
+  },
+  "&#xf027": {
+    "Resource": "wi-night-alt-rain-wind.svg"
+  },
+  "&#xf028": {
+    "Resource": "wi-night-alt-rain.svg"
+  },
+  "&#xf029": {
+    "Resource": "wi-night-alt-showers.svg"
+  },
+  "&#xf02a": {
+    "Resource": "wi-night-alt-snow.svg"
+  },
+  "&#xf02b": {
+    "Resource": "wi-night-alt-sprinkle.svg"
+  },
+  "&#xf02c": {
+    "Resource": "wi-night-alt-storm-showers.svg"
+  },
+  "&#xf02d": {
+    "Resource": "wi-night-alt-thunderstorm.svg"
+  },
+  "&#xf02e": {
+    "Resource": "wi-night-clear.svg"
+  },
+  "&#xf02f": {
+    "Resource": "wi-night-cloudy-gusts.svg"
+  },
+  "&#xf030": {
+    "Resource": "wi-night-cloudy-windy.svg"
+  },
+  "&#xf031": {
+    "Resource": "wi-night-cloudy.svg"
+  },
+  "&#xf032": {
+    "Resource": "wi-night-hail.svg"
+  },
+  "&#xf033": {
+    "Resource": "wi-night-lightning.svg"
+  },
+  "&#xf034": {
+    "Resource": "wi-night-rain-mix.svg"
+  },
+  "&#xf035": {
+    "Resource": "wi-night-rain-wind.svg"
+  },
+  "&#xf036": {
+    "Resource": "wi-night-rain.svg"
+  },
+  "&#xf037": {
+    "Resource": "wi-night-showers.svg"
+  },
+  "&#xf038": {
+    "Resource": "wi-night-snow.svg"
+  },
+  "&#xf039": {
+    "Resource": "wi-night-sprinkle.svg"
+  },
+  "&#xf03a": {
+    "Resource": "wi-night-storm-showers.svg"
+  },
+  "&#xf03b": {
+    "Resource": "wi-night-thunderstorm.svg"
+  },
+  "&#xf03c": {
+    "Resource": "wi-celsius.svg"
+  },
+  "&#xf03d": {
+    "Resource": "wi-cloud-down.svg"
+  },
+  "&#xf03e": {
+    "Resource": "wi-cloud-refresh.svg"
+  },
+  "&#xf040": {
+    "Resource": "wi-cloud-up.svg"
+  },
+  "&#xf041": {
+    "Resource": "wi-cloud.svg"
+  },
+  "&#xf042": {
+    "Resource": "wi-degrees.svg"
+  },
+  "&#xf043": {
+    "Resource": "wi-direction-down-left.svg"
+  },
+  "&#xf044": {
+    "Resource": "wi-direction-down.svg"
+  },
+  "&#xf045": {
+    "Resource": "wi-fahrenheit.svg"
+  },
+  "&#xf046": {
+    "Resource": "wi-horizon-alt.svg"
+  },
+  "&#xf047": {
+    "Resource": "wi-horizon.svg"
+  },
+  "&#xf048": {
+    "Resource": "wi-direction-left.svg"
+  },
+  "&#xf04a": {
+    "Resource": "wi-night-fog.svg"
+  },
+  "&#xf04b": {
+    "Resource": "wi-refresh-alt.svg"
+  },
+  "&#xf04c": {
+    "Resource": "wi-refresh.svg"
+  },
+  "&#xf04d": {
+    "Resource": "wi-direction-right.svg"
+  },
+  "&#xf04e": {
+    "Resource": "wi-raindrops.svg"
+  },
+  "&#xf050": {
+    "Resource": "wi-strong-wind.svg"
+  },
+  "&#xf051": {
+    "Resource": "wi-sunrise.svg"
+  },
+  "&#xf052": {
+    "Resource": "wi-sunset.svg"
+  },
+  "&#xf053": {
+    "Resource": "wi-thermometer-exterior.svg"
+  },
+  "&#xf054": {
+    "Resource": "wi-thermometer-internal.svg"
+  },
+  "&#xf055": {
+    "Resource": "wi-thermometer.svg"
+  },
+  "&#xf056": {
+    "Resource": "wi-tornado.svg"
+  },
+  "&#xf057": {
+    "Resource": "wi-direction-up-right.svg"
+  },
+  "&#xf058": {
+    "Resource": "wi-direction-up.svg"
+  },
+  "&#xf062": {
+    "Resource": "wi-smoke.svg"
+  },
+  "&#xf063": {
+    "Resource": "wi-dust.svg"
+  },
+  "&#xf064": {
+    "Resource": "wi-snow-wind.svg"
+  },
+  "&#xf065": {
+    "Resource": "wi-day-snow-wind.svg"
+  },
+  "&#xf066": {
+    "Resource": "wi-night-snow-wind.svg"
+  },
+  "&#xf067": {
+    "Resource": "wi-night-alt-snow-wind.svg"
+  },
+  "&#xf068": {
+    "Resource": "wi-day-sleet-storm.svg"
+  },
+  "&#xf069": {
+    "Resource": "wi-night-sleet-storm.svg"
+  },
+  "&#xf06a": {
+    "Resource": "wi-night-alt-sleet-storm.svg"
+  },
+  "&#xf06b": {
+    "Resource": "wi-day-snow-thunderstorm.svg"
+  },
+  "&#xf06c": {
+    "Resource": "wi-night-snow-thunderstorm.svg"
+  },
+  "&#xf06d": {
+    "Resource": "wi-night-alt-snow-thunderstorm.svg"
+  },
+  "&#xf06e": {
+    "Resource": "wi-solar-eclipse.svg"
+  },
+  "&#xf070": {
+    "Resource": "wi-lunar-eclipse.svg"
+  },
+  "&#xf071": {
+    "Resource": "wi-meteor.svg"
+  },
+  "&#xf072": {
+    "Resource": "wi-hot.svg"
+  },
+  "&#xf073": {
+    "Resource": "wi-hurricane.svg"
+  },
+  "&#xf074": {
+    "Resource": "wi-smog.svg"
+  },
+  "&#xf075": {
+    "Resource": "wi-alien.svg"
+  },
+  "&#xf076": {
+    "Resource": "wi-snowflake-cold.svg"
+  },
+  "&#xf077": {
+    "Resource": "wi-stars.svg"
+  },
+  "&#xf078": {
+    "Resource": "wi-raindrop.svg"
+  },
+  "&#xf079": {
+    "Resource": "wi-barometer.svg"
+  },
+  "&#xf07a": {
+    "Resource": "wi-humidity.svg"
+  },
+  "&#xf07b": {
+    "Resource": "wi-na.svg"
+  },
+  "&#xf07c": {
+    "Resource": "wi-flood.svg"
+  },
+  "&#xf07d": {
+    "Resource": "wi-day-cloudy-high.svg"
+  },
+  "&#xf07e": {
+    "Resource": "wi-night-alt-cloudy-high.svg"
+  },
+  "&#xf080": {
+    "Resource": "wi-night-cloudy-high.svg"
+  },
+  "&#xf081": {
+    "Resource": "wi-night-alt-partly-cloudy.svg"
+  },
+  "&#xf082": {
+    "Resource": "wi-sandstorm.svg"
+  },
+  "&#xf083": {
+    "Resource": "wi-night-partly-cloudy.svg"
+  },
+  "&#xf084": {
+    "Resource": "wi-umbrella.svg"
+  },
+  "&#xf085": {
+    "Resource": "wi-day-windy.svg"
+  },
+  "&#xf086": {
+    "Resource": "wi-night-alt-cloudy.svg"
+  },
+  "&#xf087": {
+    "Resource": "wi-direction-up-left.svg"
+  },
+  "&#xf088": {
+    "Resource": "wi-direction-down-right.svg"
+  },
+  "&#xf089": {
+    "Resource": "wi-time-12.svg"
+  },
+  "&#xf08a": {
+    "Resource": "wi-time-1.svg"
+  },
+  "&#xf08b": {
+    "Resource": "wi-time-2.svg"
+  },
+  "&#xf08c": {
+    "Resource": "wi-time-3.svg"
+  },
+  "&#xf08d": {
+    "Resource": "wi-time-4.svg"
+  },
+  "&#xf08e": {
+    "Resource": "wi-time-5.svg"
+  },
+  "&#xf08f": {
+    "Resource": "wi-time-6.svg"
+  },
+  "&#xf090": {
+    "Resource": "wi-time-7.svg"
+  },
+  "&#xf091": {
+    "Resource": "wi-time-8.svg"
+  },
+  "&#xf092": {
+    "Resource": "wi-time-9.svg"
+  },
+  "&#xf093": {
+    "Resource": "wi-time-10.svg"
+  },
+  "&#xf094": {
+    "Resource": "wi-time-11.svg"
+  },
+  "&#xf095": {
+    "Resource": "wi-moon-new.svg"
+  },
+  "&#xf096": {
+    "Resource": "wi-moon-waxing-crescent-1.svg"
+  },
+  "&#xf097": {
+    "Resource": "wi-moon-waxing-crescent-2.svg"
+  },
+  "&#xf098": {
+    "Resource": "wi-moon-waxing-crescent-3.svg"
+  },
+  "&#xf099": {
+    "Resource": "wi-moon-waxing-crescent-4.svg"
+  },
+  "&#xf09a": {
+    "Resource": "wi-moon-waxing-crescent-5.svg"
+  },
+  "&#xf09c": {
+    "Resource": "wi-moon-first-quarter.svg"
+  },
+  "&#xf09d": {
+    "Resource": "wi-moon-waxing-gibbous-1.svg"
+  },
+  "&#xf09e": {
+    "Resource": "wi-moon-waxing-gibbous-2.svg"
+  },
+  "&#xf09f": {
+    "Resource": "wi-moon-waxing-gibbous-3.svg"
+  },
+  "&#xf0a0": {
+    "Resource": "wi-moon-waxing-gibbous-4.svg"
+  },
+  "&#xf0a1": {
+    "Resource": "wi-moon-waxing-gibbous-5.svg"
+  },
+  "&#xf0a2": {
+    "Resource": "wi-moon-waxing-gibbous-6.svg"
+  },
+  "&#xf0a3": {
+    "Resource": "wi-moon-full.svg"
+  },
+  "&#xf0a4": {
+    "Resource": "wi-moon-waning-gibbous-1.svg"
+  },
+  "&#xf0a5": {
+    "Resource": "wi-moon-waning-gibbous-2.svg"
+  },
+  "&#xf0a6": {
+    "Resource": "wi-moon-waning-gibbous-3.svg"
+  },
+  "&#xf0a7": {
+    "Resource": "wi-moon-waning-gibbous-4.svg"
+  },
+  "&#xf0a8": {
+    "Resource": "wi-moon-waning-gibbous-5.svg"
+  },
+  "&#xf0a9": {
+    "Resource": "wi-moon-waning-gibbous-6.svg"
+  },
+  "&#xf0aa": {
+    "Resource": "wi-moon-third-quarter.svg"
+  },
+  "&#xf0ab": {
+    "Resource": "wi-moon-waning-crescent-1.svg"
+  },
+  "&#xf0ac": {
+    "Resource": "wi-moon-waning-crescent-2.svg"
+  },
+  "&#xf0ad": {
+    "Resource": "wi-moon-waning-crescent-3.svg"
+  },
+  "&#xf0ae": {
+    "Resource": "wi-moon-waning-crescent-4.svg"
+  },
+  "&#xf0af": {
+    "Resource": "wi-moon-waning-crescent-5.svg"
+  },
+  "&#xf0b0": {
+    "Resource": "wi-moon-waning-crescent-6.svg"
+  },
+  "&#xf0b2": {
+    "Resource": "wi-day-sleet.svg"
+  },
+  "&#xf0b3": {
+    "Resource": "wi-night-sleet.svg"
+  },
+  "&#xf0b4": {
+    "Resource": "wi-night-alt-sleet.svg"
+  },
+  "&#xf0b5": {
+    "Resource": "wi-sleet.svg"
+  },
+  "&#xf0b6": {
+    "Resource": "wi-day-haze.svg"
+  },
+  "&#xf0b7": {
+    "Resource": "wi-wind-beaufort-0.svg"
+  },
+  "&#xf0b8": {
+    "Resource": "wi-wind-beaufort-1.svg"
+  },
+  "&#xf0b9": {
+    "Resource": "wi-wind-beaufort-2.svg"
+  },
+  "&#xf0ba": {
+    "Resource": "wi-wind-beaufort-3.svg"
+  },
+  "&#xf0bb": {
+    "Resource": "wi-wind-beaufort-4.svg"
+  },
+  "&#xf0bc": {
+    "Resource": "wi-wind-beaufort-5.svg"
+  },
+  "&#xf0bd": {
+    "Resource": "wi-wind-beaufort-6.svg"
+  },
+  "&#xf0be": {
+    "Resource": "wi-wind-beaufort-7.svg"
+  },
+  "&#xf0bf": {
+    "Resource": "wi-wind-beaufort-8.svg"
+  },
+  "&#xf0c0": {
+    "Resource": "wi-wind-beaufort-9.svg"
+  },
+  "&#xf0c1": {
+    "Resource": "wi-wind-beaufort-10.svg"
+  },
+  "&#xf0c2": {
+    "Resource": "wi-wind-beaufort-11.svg"
+  },
+  "&#xf0c3": {
+    "Resource": "wi-wind-beaufort-12.svg"
+  },
+  "&#xf0c4": {
+    "Resource": "wi-day-light-wind.svg"
+  },
+  "&#xf0c5": {
+    "Resource": "wi-tsunami.svg"
+  },
+  "&#xf0c6": {
+    "Resource": "wi-earthquake.svg"
+  },
+  "&#xf0c7": {
+    "Resource": "wi-fire.svg"
+  },
+  "&#xf0c8": {
+    "Resource": "wi-volcano.svg"
+  },
+  "&#xf0c9": {
+    "Resource": "wi-moonrise.svg"
+  },
+  "&#xf0ca": {
+    "Resource": "wi-moonset.svg"
+  },
+  "&#xf0cb": {
+    "Resource": "wi-train.svg"
+  },
+  "&#xf0cc": {
+    "Resource": "wi-small-craft-advisory.svg"
+  },
+  "&#xf0cd": {
+    "Resource": "wi-gale-warning.svg"
+  },
+  "&#xf0ce": {
+    "Resource": "wi-storm-warning.svg"
+  },
+  "&#xf0cf": {
+    "Resource": "wi-hurricane-warning.svg"
+  },
+  "&#xf0d0": {
+    "Resource": "wi-moon-alt-waxing-crescent-1.svg"
+  },
+  "&#xf0d1": {
+    "Resource": "wi-moon-alt-waxing-crescent-2.svg"
+  },
+  "&#xf0d2": {
+    "Resource": "wi-moon-alt-waxing-crescent-3.svg"
+  },
+  "&#xf0d3": {
+    "Resource": "wi-moon-alt-waxing-crescent-4.svg"
+  },
+  "&#xf0d4": {
+    "Resource": "wi-moon-alt-waxing-crescent-5.svg"
+  },
+  "&#xf0d5": {
+    "Resource": "wi-moon-alt-waxing-crescent-6.svg"
+  },
+  "&#xf0d6": {
+    "Resource": "wi-moon-alt-first-quarter.svg"
+  },
+  "&#xf0d7": {
+    "Resource": "wi-moon-alt-waxing-gibbous-1.svg"
+  },
+  "&#xf0d8": {
+    "Resource": "wi-moon-alt-waxing-gibbous-2.svg"
+  },
+  "&#xf0d9": {
+    "Resource": "wi-moon-alt-waxing-gibbous-3.svg"
+  },
+  "&#xf0da": {
+    "Resource": "wi-moon-alt-waxing-gibbous-4.svg"
+  },
+  "&#xf0db": {
+    "Resource": "wi-moon-alt-waxing-gibbous-5.svg"
+  },
+  "&#xf0dc": {
+    "Resource": "wi-moon-alt-waxing-gibbous-6.svg"
+  },
+  "&#xf0dd": {
+    "Resource": "wi-moon-alt-full.svg"
+  },
+  "&#xf0de": {
+    "Resource": "wi-moon-alt-waning-gibbous-1.svg"
+  },
+  "&#xf0df": {
+    "Resource": "wi-moon-alt-waning-gibbous-2.svg"
+  },
+  "&#xf0e0": {
+    "Resource": "wi-moon-alt-waning-gibbous-3.svg"
+  },
+  "&#xf0e1": {
+    "Resource": "wi-moon-alt-waning-gibbous-4.svg"
+  },
+  "&#xf0e2": {
+    "Resource": "wi-moon-alt-waning-gibbous-5.svg"
+  },
+  "&#xf0e3": {
+    "Resource": "wi-moon-alt-waning-gibbous-6.svg"
+  },
+  "&#xf0e4": {
+    "Resource": "wi-moon-alt-third-quarter.svg"
+  },
+  "&#xf0e5": {
+    "Resource": "wi-moon-alt-waning-crescent-1.svg"
+  },
+  "&#xf0e6": {
+    "Resource": "wi-moon-alt-waning-crescent-2.svg"
+  },
+  "&#xf0e7": {
+    "Resource": "wi-moon-alt-waning-crescent-3.svg"
+  },
+  "&#xf0e8": {
+    "Resource": "wi-moon-alt-waning-crescent-4.svg"
+  },
+  "&#xf0e9": {
+    "Resource": "wi-moon-alt-waning-crescent-5.svg"
+  },
+  "&#xf0ea": {
+    "Resource": "wi-moon-alt-waning-crescent-6.svg"
+  },
+  "&#xf0eb": {
+    "Resource": "wi-moon-alt-new.svg"
+  }
+}
